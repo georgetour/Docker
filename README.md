@@ -1,7 +1,7 @@
-# Docker Mastery: The Complete Toolset From a Docker Captain
+## Docker
 
-> Build, compose, deploy, and manage Docker containers from development to DevOps based Swarm clusters
+This repo is a copy from  https://github.com/BretFisher/udemy-docker-mastery so I can practice with docker.
 
-This repo is for use in my Udemy Course https://www.bretfisher.com/dockermastery
+I will have also a doc file with a guide for docker(commands, about docker, containers etc)
 
-Feel free to create issues or PRs if you find a problem.
+
