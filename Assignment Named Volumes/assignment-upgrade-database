@@ -1,0 +1,13 @@
+Database upgrade with containers
+
+Create a postgres container with named volume psql-data using version 9.6.1
+
+Use Docker hub to learn VOLUME path and versions needed to run it
+
+Check logs stop container
+
+Create a new postgres container with same named volume using 9.6.2
+
+Check logs
+
+Ths only works with patch versions most SQL dbs require manual commands to upgrade dbs to major/minor versions. Its a db limititation not a container one
