@@ -1,6 +1,17 @@
 ## Execute the lemp stack
 docker-compose up -d
 
+##Access database in command line
+docker-compose exec mysql bash
+
+###Create database
+mysql -u root -p
+TYPE MYSQL PASSWORD: admin
+
+Now create a new database:
+
+create database currentproject;
+
 ## Access phpmyadmin
 user root
 password admin
